@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melisagunay
-- 👀  I am interested in design and mobile apps
-- 🌱  I'm learning c# these days
+- 👀  I am interested in mobile games, apps and design.
+- 🌱  I'm learning dart these days
 - 📫 How to reach me ...
 
 <!---
